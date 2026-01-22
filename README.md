@@ -138,4 +138,3 @@ This project is for educational and portfolio purposes
 
 Target site is a public scraping demo
 
-Always respect robots.txt and site terms when scraping real websites
